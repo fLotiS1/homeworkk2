@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.dv{
+    background-color: rgb(1, 97, 89);
+    height: 650px;
+    width: 1000px;
+    margin: 50px auto;
+    padding: 1px;
+}
+.dvv{
+
+    color: white;
+    background-color: rgb(36, 0, 0);
+    margin: 15px auto; 
+    width: 265px;
+    padding: 15px;
+}
+.cont{
+    background-color: black;
+    border: 6px solid red;
+    padding: 15px;
+    width: 585px;
+    margin: 30px auto;
+    height: 410px;
+}
+.model{
+    background-color: aquamarine;
+    width: 490px;
+    margin: 20px;
+    padding: 35px 25px;
+    font-weight: 600;
+}
+.p{
+    margin-bottom: 10px;
+}
